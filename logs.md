@@ -1,3 +1,13 @@
+# 2022-10-31 - Gui
+
+- yay, le clavier est réparé en reflashant avec le trombone
+- @globidev found a vscode extension: "ZMK Tools" (notably syntax highlighting)
+  - also install "DeviceTree" extension for .dts(i) files
+- le format de config est un peu weird au premier abord et pas très lisible, mais finalement ne semble pas si compliqué. Il semble y avoir assez peu de concepts, lire bêtement la doc pour les connaître et après ça doit se comprendre.
+- next:
+  1. continuer à lire la doc (descendre juste toutes les sections dans l'ordre)
+  2. on verra ensuite pour le besoin
+
 # 2022-10-29 - Gui
 
 - j'ai passé ~2h dessus entre hier soir et ce matin -> je pense faire une pause, probablement jusqu'à lundi
