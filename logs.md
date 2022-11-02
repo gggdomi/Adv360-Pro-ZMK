@@ -1,3 +1,26 @@
+# 2022-11-02 - Rémi
+
+- auteurs connus: manna-harbour (miryoku), precondition, xahlee.info
+- communautés sur discord (oh key caps, 40% keyboard)
+- reddit: https://www.reddit.com/r/ErgoMechKeyboards/ (regarder les tops comments)
+- pour choisir son layout, très discrimant
+  1. home row mods
+  2. combos
+- à tester, ça va être cool: symbol layer
+- on peut faire pleins de layers, des layers d'application, des layers qui changent en fonction de l'app actuelle avec karabiner
+- le plus important c'est d'avoir une feedback loop rapide
+  - compliqué avec zmk? -> tester via kmonad pour pouvoir itérer vite
+- config rapide sur karabiner: https://github.com/yqrashawn/GokuRakuJoudo
+- bon il y a beaucoup de trucs
+- next:
+  1. lire quelques astuces de pro, regarder des layouts sur https://keymapdb.com/?isSplit=true&firmwares=ZMK
+  2. tester les homerow mods sur kmonad
+- on hold
+  1. continuer à lire la doc (descendre juste toutes les sections dans l'ordre)
+  2. partir d'un layout existant
+  3. trouver un moyen de flasher plus vite
+  4. clarifier le besoin
+
 # 2022-10-31 - Gui
 
 - yay, le clavier est réparé en reflashant avec le trombone
