@@ -1,3 +1,15 @@
+# 2022-11-03 - Gui
+
+- lu precondition & xahlee
+- tenter de mieux comprendre le feeling de frappe
+  - peut-être pas fait pour un advantage 360Pro? (grand, pouces loin)
+  - voire essayer du low profile
+  - voire peut-être pas si mal QMK car effectivement sans vial ça semble bien relou d'expérimenter
+- next:
+  - trouver un keymap ZMK avec home row mods pour tester pour de vrai (sinon via kmonad)
+  - sinon peut-être essayer le dactyl manuform?
+  - cf plus bas
+
 # 2022-11-02 - Rémi
 
 - auteurs connus: manna-harbour (miryoku), precondition, xahlee.info
